@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+D:\VisokoUčilišteAlgebra\II_Semestar\StrukturePodatakaIAlgoritmi\Vježbe\Rješenja\DomacaZadaca_02\VUA_SPA_Homework_02_1RP3_KristijanSkrlec\Homework\game_of_life.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Homework.vcxproj -> D:\VisokoUčilišteAlgebra\II_Semestar\StrukturePodatakaIAlgoritmi\Vježbe\Rješenja\DomacaZadaca_02\VUA_SPA_Homework_02_1RP3_KristijanSkrlec\x64\Debug\Homework.exe
